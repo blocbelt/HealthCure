@@ -16,3 +16,4 @@ opencv-python
 tensorflow-cpu
 joblib
 seaborn
+.slugignore
