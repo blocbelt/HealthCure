@@ -13,6 +13,6 @@ imutils
 urllib3
 Werkzeug
 opencv-python
-tensorflow
+tensorflow-cpu==2.6.0
 joblib
 seaborn
