@@ -15,4 +15,3 @@ Werkzeug
 opencv-python
 tensorflow-cpu
 joblib
-seaborn
