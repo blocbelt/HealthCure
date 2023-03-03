@@ -13,7 +13,6 @@ imutils
 urllib3
 Werkzeug
 opencv-python
-pickle5
 tensorflow
 joblib
 seaborn
