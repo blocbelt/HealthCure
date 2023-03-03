@@ -10,11 +10,11 @@ scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
 imutils
-urllib
+urllib3
 os
-werkzeug
-cv2
-pickle
+Werkzeug
+opencv-python
+pickle5
 tensorflow
 joblib
 seaborn
